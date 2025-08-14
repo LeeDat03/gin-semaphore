@@ -1,6 +1,6 @@
 module github.com/LeeDat03/gin-semaphore
 
-go 1.24.4
+go 1.23.4
 
 require (
 	github.com/bytedance/sonic v1.14.0 // indirect
